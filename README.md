@@ -2,7 +2,7 @@
 
 > Personal portfolio website for an AI/ML student, showcasing skills, projects, education, and contact details.
 
-🔗 **Live Site:** `https://thepavan141.github.io/<repo-name>/`
+🔗 **Live Site:** `https://github.com/thepavan141/Portfolio-website.git`
 
 ---
 
@@ -15,13 +15,6 @@ portfolio/
 ├── script.js       # Smooth scroll for nav links
 └── README.md       # This file
 ```
-
-## 🚀 Deploy on GitHub Pages
-
-1. Push this repo to GitHub
-2. Go to **Settings → Pages**
-3. Set source branch to `main` and folder to `/ (root)`
-4. Your site will be live at `https://<your-username>.github.io/<repo-name>/`
 
 ## 🛠️ Tech Stack
 
